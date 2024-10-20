@@ -1,8 +1,6 @@
-![Web Developer](https://scontent.fdac177-1.fna.fbcdn.net/v/t39.30808-6/327409387_5690571294372991_2579662227854826691_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeH-p8TQ_vj8mTuFTghEcri_SZsoJmborSVJmygmZuitJUhAYixViZL00AbOWCwO7UChlF9XACjypu5X4os3T1DU&_nc_ohc=dyKT9V4VIOQQ7kNvgGtFHV1&_nc_ht=scontent.fdac177-1.fna&_nc_gid=AYyozXsKTE3xMMSjpbu2ZDM&oh=00_AYA5_touj8BEpD5DYuqERefQGFyO-KG0Asct_yMB4PDhHQ&oe=671B2A8A)
-
 ### Hi there 👋, I'm Abdullah Nazmus-Sakib
 #### Web Developer
-
+![Web Developer](https://pbs.twimg.com/profile_banners/1835360782642802688/1728361101/600x200)
 
 Innovative Third-Year Computer Science Student at Jahangirnaga University | Passionate About AI and Software Development | Seeking Internship Opportunities | Skilled in HTML, CSS, Java, Javascript, C, C++, and Database |
 
