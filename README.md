@@ -1,6 +1,8 @@
+![Web Developer](https://pbs.twimg.com/profile_banners/1835360782642802688/1728361101/600x200)
+
 ### Hi there 👋, I'm Abdullah Nazmus-Sakib
 #### Web Developer
-![Web Developer](https://pbs.twimg.com/profile_banners/1835360782642802688/1728361101/600x200)
+
 
 Innovative Third-Year Computer Science Student at Jahangirnaga University | Passionate About AI and Software Development | Seeking Internship Opportunities | Skilled in HTML, CSS, Java, Javascript, C, C++, and Database |
 
