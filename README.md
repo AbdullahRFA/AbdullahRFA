@@ -34,4 +34,4 @@ Skills: JS / HTML / CSS/ JAVA / C / C++ / Database
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AbdullahRFA)  
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullahRFA)](https://github.com/ashutosh00710/github-readme-activity-graph)
