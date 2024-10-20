@@ -17,6 +17,8 @@ Skills: JS / HTML / CSS/ JAVA / C / C++ / Database
 - 😄 Pronouns: Ab-dool-lah Naz-moos Sa-keeb 
 - ⚡ Fun fact: Movies 
 
+### 📝 Profile Views:
+![Profile Views](https://komarev.com/ghpvc/?username=AbdullahRFA&color=blue&style=flat-square)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AbdullahRFA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abdullah-nazmus-sakib-04024b261//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100008509008772)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/AbdullahRFA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@383_abdullahnazmus-sakib6)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://app.netlify.com/teams/abdullahrfa/sites)  
 
@@ -35,3 +37,5 @@ Skills: JS / HTML / CSS/ JAVA / C / C++ / Database
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AbdullahRFA)  
 
 [![Abdullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullahRFA)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
