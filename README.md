@@ -1,5 +1,6 @@
-![Web Developer](https://pbs.twimg.com/profile_banners/1835360782642802688/1728361101/600x200)
-
+<div style="border-radius: 10px; overflow: hidden; width: 600px; height: 200px;">
+    <img src="https://pbs.twimg.com/profile_banners/1835360782642802688/1728361101/600x200" alt="Web Developer" style="width: 100%; height: 100%; object-fit: cover;">
+</div>
 ### Hi there 👋, I'm Abdullah Nazmus-Sakib
 #### Web Developer
 
