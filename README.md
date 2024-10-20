@@ -26,11 +26,12 @@ Skills: JS / HTML / CSS/ JAVA / C / C++ / Database
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahRFA)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahRFA&show_icons=true&count_private=true)  
+![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahRFA&show_icons=true&count_private=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/AbdullahRFA/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/AbdullahRFA)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AbdullahRFA)  
+
 
