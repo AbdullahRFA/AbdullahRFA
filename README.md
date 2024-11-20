@@ -3,7 +3,7 @@
 </div>
 
 # Hi there 👋, I'm Abdullah Nazmus-Sakib
-## Web Developer
+## Programmer, Web Developer, IOT Enthusiastic
 
 
 Innovative Third-Year Computer Science Student at Jahangirnaga University | Passionate About AI and Software Development | Seeking Internship Opportunities | Skilled in HTML, CSS, Java, Javascript, C, C++, and Database |
