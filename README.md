@@ -2,8 +2,9 @@
     <img src="https://pbs.twimg.com/profile_banners/1835360782642802688/1728361101/600x200" alt="Web Developer" style="width: 100%; height: 100%; object-fit: cover;">
 </div>
 
-# Hi there 👋, I'm Abdullah Nazmus-Sakib
-## Programmer, Web Developer, IOT Enthusiastic
+<!-- # Hi there 👋, I'm Abdullah Nazmus-Sakib
+## Programmer, Web Developer, IOT Enthusiastic -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=Assalamu+Alikum+I'm+Abdullah+Nazmus-Sakib;Programmer+%7C+Web+Developer;IoT+Enthusiast+%7C+Tech+Explorer;Building+Solutions+with+Purpose)](https://git.io/typing-svg)
 
 
 Innovative Third-Year Computer Science Student at Jahangirnaga University | Passionate About AI and Software Development | Seeking Internship Opportunities | Skilled in HTML, CSS, Java, Javascript, C, C++, and Database |
@@ -73,6 +74,8 @@ Skills: JS / HTML / CSS/ JAVA / C / C++ / Database
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AbdullahRFA)  
 
-[![Abdullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullahRFA)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Abdullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullahRFA)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
+<!-- Contribution Graph -->
+![Debashis's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullahRFA&theme=github)
 
