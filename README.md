@@ -60,7 +60,10 @@ Skills: JS / HTML / CSS/ JAVA / C / C++ / Database
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbdullahRFA)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahRFA)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahRFA)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahsultans&show_icons=true&locale=en&layout=compact" alt="shahsultans" /></p>
+
 
 ![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahRFA&show_icons=true&count_private=true)  
 
