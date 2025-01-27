@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=Assalamu+Alikum+I'm+Abdullah+Nazmus-Sakib;Programmer+%7C+Web+Developer;IoT+Enthusiast+%7C+Tech+Explorer;Building+Solutions+with+Purpose)](https://git.io/typing-svg)
 
 
-Innovative Third-Year Computer Science Student at Jahangirnaga University | Passionate About AI and Software Development | Seeking Internship Opportunities | Skilled in HTML, CSS, Java, Javascript, C, C++, and Database |
+Innovative Third-Year Computer Science Student at Jahangirnaga University | Passionate About AI and Software Development | Seeking Internship Opportunities | Skilled in HTML, CSS, Java, Javascript, C, C++, Database, Python, Flask, and Django |
 
 Skills: JS / HTML / CSS/ JAVA / C / C++ / Database
 
