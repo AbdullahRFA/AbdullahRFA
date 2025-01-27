@@ -9,7 +9,7 @@
 
 Innovative Third-Year Computer Science Student at Jahangirnaga University | Passionate About AI and Software Development | Seeking Internship Opportunities | Skilled in HTML, CSS, Java, Javascript, C, C++, Database, Python, Flask, and Django |
 
-Skills: JS / HTML / CSS/ JAVA / C / C++ / Database
+Skills: JS / HTML / CSS/ JAVA / C / C++ / Database / Python / Flask / Django
 
 - 🔭 I’m currently working on improving my development skill 
 - 🌱 I’m currently learning BackEnd 
