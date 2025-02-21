@@ -79,3 +79,17 @@ Skills: JS / HTML / CSS/ JAVA / C / C++ / Database / Python / Flask / Django
 <!-- Contribution Graph -->
 ![Debashis's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullahRFA&theme=github)
 
+<!--for rgb line -->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+
+<!--🎨 CAPSULE (Sky Blue Gradient) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:87CEEB,100:00BFFF">
+</p>
+
