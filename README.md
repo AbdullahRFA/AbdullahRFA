@@ -51,7 +51,7 @@ Innovative **Third-Year Computer Science Student at Jahangirnagar University** |
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/a_n_s_rfa/)  
 [![AtCoder](https://img.shields.io/badge/AtCoder-blue?style=for-the-badge)](https://atcoder.jp/users/A_N_S_RFA)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-32CD32?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/a_n_s_rfa)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/a_n_s_rfa)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/abdullah_30_383/)  
 
 
 ---
