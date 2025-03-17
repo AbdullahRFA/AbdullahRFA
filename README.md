@@ -86,6 +86,7 @@ Skills: JS / HTML / CSS/ JAVA / C / C++ / Database / Python / Flask / Django
 <!-- [![Steam](https://img.shields.io/badge/Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199063427908) -->
 
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/A_N_S_RFA.svg)](https://codeforces.com/profile/A_N_S_RFA)
+[![CodeChef](https://cp-logo.vercel.app/codechef/a_n_s_rfa)](https://www.codechef.com/users/a_n_s_rfa)
 
 <!-- [![Codeforces](https://badges.joonhyung.xyz/atcoder/Dihaj.svg?left_color=lightgray)](https://atcoder.jp/users/Dihaj) -->
 
