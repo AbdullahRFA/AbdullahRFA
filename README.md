@@ -1,98 +1,75 @@
+## Hi there! 👋 I'm Abdullah Nazmus-Sakib  
+### Programmer | Web Developer | IoT Enthusiast | Tech Explorer  
+
 <div style="border-radius: 10px; overflow: hidden; width: 600px; height: 200px;">
     <img src="https://pbs.twimg.com/profile_banners/1835360782642802688/1728361101/600x200" alt="Web Developer" style="width: 100%; height: 100%; object-fit: cover;">
 </div>
 
-<!-- # Hi there 👋, I'm Abdullah Nazmus-Sakib
-## Programmer, Web Developer, IOT Enthusiastic -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=Assalamu+Alikum+I'm+Abdullah+Nazmus-Sakib;Programmer+%7C+Web+Developer;IoT+Enthusiast+%7C+Tech+Explorer;Building+Solutions+with+Purpose)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=Assalamu+Alikum!+I'm+Abdullah+Nazmus-Sakib;Programmer+%7C+Web+Developer;IoT+Enthusiast+%7C+Tech+Explorer;Building+Solutions+with+Purpose)](https://git.io/typing-svg)
 
+Innovative **Third-Year Computer Science Student at Jahangirnagar University** | Passionate About AI, Software Development, and IoT | Seeking Internship Opportunities | Skilled in **HTML, CSS, Java, JavaScript, C, C++, Python, Flask, Django, and Databases**
 
-Innovative Third-Year Computer Science Student at Jahangirnaga University | Passionate About AI and Software Development | Seeking Internship Opportunities | Skilled in HTML, CSS, Java, Javascript, C, C++, Database, Python, Flask, and Django |
+---
+### 🔥 About Me
+- 🔭 I’m currently working on improving my development skills.
+- 🌱 Currently learning **Backend Development**.
+- 👯 Looking to collaborate on **open-source projects**.
+- 🤝 Seeking **internship opportunities**.
+- 💬 Ask me about **Web Development, IoT, and Software Engineering**.
+- 📫 Reach me at **shakibrybmn@gmail.com**
+- ⚡ Fun Fact: **I love tech and movies!**
 
-Skills: JS / HTML / CSS/ JAVA / C / C++ / Database / Python / Flask / Django
-
-- 🔭 I’m currently working on improving my development skill 
-- 🌱 I’m currently learning BackEnd 
-- 👯 I’m looking to collaborate on GitHub 
-- 🤔 I’m looking for help with full stack development 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: shakibrybmn@gmail.com 
-- 😄 Pronouns: Ab-dool-lah Naz-moos Sa-keeb 
-- ⚡ Fun fact: Movies 
-
-### 📝 Profile Views:
-![Profile Views](https://komarev.com/ghpvc/?username=AbdullahRFA&color=blue&style=flat-square)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
+---
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
-<p align="left">GitHub: <a href="https://github.com/AbdullahRFA" target="_blank" rel="noreferrer">AbdullahRFA</a></p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AbdullahRFA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abdullah-nazmus-sakib-04024b261//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100008509008772)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/AbdullahRFA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@383_abdullahnazmus-sakib6)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://app.netlify.com/teams/abdullahrfa/sites)  
+---
+### 📊 GitHub Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbdullahRFA&theme=tokyonight-duo&hide_border=true&mode=weekly)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahRFA&show_icons=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahRFA&show_icons=true&locale=en&layout=compact)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
+### 🏆 GitHub Achievements:
+[![Trophy](https://github-profile-trophy.vercel.app/?username=AbdullahRFA)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbdullahRFA)](https://github.com/ryo-ma/github-profile-trophy)
+---
+### 🌍 Coding Platforms:
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/A_N_S_RFA.svg)](https://codeforces.com/profile/A_N_S_RFA)  
+[![CodeChef](https://cp-logo.vercel.app/codechef/a_n_s_rfa)](https://www.codechef.com/users/a_n_s_rfa)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/a_n_s_rfa/)  
+[![AtCoder](https://img.shields.io/badge/AtCoder-blue?style=for-the-badge)](https://atcoder.jp/users/A_N_S_RFA)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-32CD32?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/a_n_s_rfa)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/a_n_s_rfa)  
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahRFA)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahRFA&show_icons=true&locale=en&layout=compact" alt="shahsultans" /></p>
-
-
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahRFA&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/AbdullahRFA/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/AbdullahRFA)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=AbdullahRFA)  
-
-<!--[![Abdullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullahRFA)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-#### My github stats
-
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbdullahRFA&theme=tokyonight-duo&hide_border=true&mode=weekly)
- 
-####
+---
+### 📩 Contact Me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakibrybmn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-nazmus-sakib-04024b261/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008509008772)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AbdullahRFA)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/teams/abdullahrfa/sites)
 
-<!-- [![Steam](https://img.shields.io/badge/Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199063427908) -->
 
-[![Codeforces](https://badges.joonhyung.xyz/codeforces/A_N_S_RFA.svg)](https://codeforces.com/profile/A_N_S_RFA)
-[![CodeChef](https://cp-logo.vercel.app/codechef/a_n_s_rfa)](https://www.codechef.com/users/a_n_s_rfa)
+---
 
-<!-- [![Codeforces](https://badges.joonhyung.xyz/atcoder/Dihaj.svg?left_color=lightgray)](https://atcoder.jp/users/Dihaj) -->
 
 <!-- Contribution Graph -->
-![Abdullah's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullahRFA&theme=github)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullahRFA&theme=github)
 
+### 🎨 Design Elements
 <!--for rgb line -->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -106,4 +83,3 @@ Skills: JS / HTML / CSS/ JAVA / C / C++ / Database / Python / Flask / Django
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:87CEEB,100:00BFFF">
 </p>
-
