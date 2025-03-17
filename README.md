@@ -76,8 +76,21 @@ Skills: JS / HTML / CSS/ JAVA / C / C++ / Database / Python / Flask / Django
 
 <!--[![Abdullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullahRFA)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
+#### My github stats
+
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbdullahRFA&theme=tokyonight-duo&hide_border=true&mode=weekly)
+ 
+####
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakibrybmn@gmail.com)
+
+<!-- [![Steam](https://img.shields.io/badge/Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199063427908) -->
+
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/A_N_S_RFA.svg)](https://codeforces.com/profile/A_N_S_RFA)
+
+<!-- [![Codeforces](https://badges.joonhyung.xyz/atcoder/Dihaj.svg?left_color=lightgray)](https://atcoder.jp/users/Dihaj) -->
+
 <!-- Contribution Graph -->
-![Debashis's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullahRFA&theme=github)
+![Abdullah's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullahRFA&theme=github)
 
 <!--for rgb line -->
 <p align="center">
