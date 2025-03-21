@@ -36,7 +36,8 @@ Innovative **Third-Year Computer Science Student at Jahangirnagar University** |
 
 ---
 ### 📊 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbdullahRFA&theme=tokyonight-duo&hide_border=true&mode=weekly)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=AbdullahRFA)  
+<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbdullahRFA&theme=tokyonight-duo&hide_border=true&mode=weekly)  -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahRFA&show_icons=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahRFA&show_icons=true&locale=en&layout=compact)  
 
