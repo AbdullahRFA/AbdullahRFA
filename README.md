@@ -51,7 +51,7 @@ Innovative **Third-Year Computer Science Student at Jahangirnagar University** |
 ### 🌍 Coding Platforms:
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/A_N_S_RFA.svg)](https://codeforces.com/profile/A_N_S_RFA)  
 [![CodeChef](https://cp-logo.vercel.app/codechef/a_n_s_rfa)](https://www.codechef.com/users/a_n_s_rfa)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/a_n_s_rfa/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Abdullah_RFA/)  
 [![AtCoder](https://img.shields.io/badge/AtCoder-blue?style=for-the-badge)](https://atcoder.jp/users/A_N_S_RFA)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-32CD32?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/a_n_s_rfa)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/abdullah_30_383/)  
