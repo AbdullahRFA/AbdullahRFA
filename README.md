@@ -18,7 +18,9 @@ Innovative **Third-Year Computer Science Student at Jahangirnagar University** |
 - 💬 Ask me about **Web Development, IoT, and Software Engineering**.
 - 📫 Reach me at **shakibrybmn@gmail.com**
 - ⚡ Fun Fact: **I love tech and movies!**
-
+---
+## 👁️‍🗨️ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=AbdullahRFA&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 ---
 ### 🛠️ Languages and Tools:
 <p align="left">
