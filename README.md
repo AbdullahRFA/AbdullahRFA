@@ -38,10 +38,18 @@ Innovative **Third-Year Computer Science Student at Jahangirnagar University** |
 
 ---
 ### 📊 GitHub Stats:
-![GitHub streak stats](https://streak-stats.demolab.com/?user=AbdullahRFA)  
-<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbdullahRFA&theme=tokyonight-duo&hide_border=true&mode=weekly)  -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahRFA&show_icons=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahRFA&show_icons=true&locale=en&layout=compact)  
+<div style="display: flex; justify-content: center; align-items: center; gap: 14px; flex-wrap: wrap;">
+  <img src="https://streak-stats.demolab.com/?user=AbdullahRFA" alt="GitHub Streak Stats" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdullahRFA&theme=tokyonight-duo&hide_border=true&mode=weekly" alt="GitHub Streak" /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=AbdullahRFA&show_icons=true&count_private=true" alt="GitHub Stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahRFA&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> 
+</div>
+<hr/>
+<div style="display: flex; justify-content: center; align-items: center; gap:14px">  
+   <img src="https://leetcard.jacoblin.cool/Abdullah_RFA?theme=dark" style="margin-right: 10px;" />  
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=AbdullahRFA&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />  
+</div>
+
 
 ---
 ### 🏆 GitHub Achievements:
@@ -68,6 +76,13 @@ Innovative **Third-Year Computer Science Student at Jahangirnagar University** |
 
 ---
 
+
+
+
+<!-- <h2 align="center">Visitor Count</h2>
+<p align="center">
+  <img align="center" alt="" width="40%" src="https://profile-counter.glitch.me/AbdullahRFA/count.svg" />
+</p> -->
 
 <!-- Contribution Graph -->
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullahRFA&theme=github)
