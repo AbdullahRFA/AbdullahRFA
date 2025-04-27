@@ -46,7 +46,7 @@ Innovative **Third-Year Computer Science Student at Jahangirnagar University** |
 </div>
 <hr/>
 <div style="display: flex; justify-content: center; align-items: center; gap:14px">  
-   <img src="https://leetcard.jacoblin.cool/Abdullah_RFA?theme=dark" style="margin-right: 10px;" />  
+   <img width="400" src="https://leetcard.jacoblin.cool/Abdullah_RFA?theme=dark" style="margin-right: 10px;" />  
    <img width="400" src="https://github-readme-stats.vercel.app/api?username=AbdullahRFA&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />  
 </div>
 
