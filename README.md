@@ -39,14 +39,14 @@ Innovative **Third-Year Computer Science Student at Jahangirnagar University** |
 ---
 ### 📊 GitHub Stats:
 <div style="display: flex; justify-content: center; align-items: center; gap: 14px; flex-wrap: wrap;">
-  <img src="https://streak-stats.demolab.com/?user=AbdullahRFA" alt="GitHub Streak Stats" />
+  <img width="570" src="https://streak-stats.demolab.com/?user=AbdullahRFA" alt="GitHub Streak Stats" />
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdullahRFA&theme=tokyonight-duo&hide_border=true&mode=weekly" alt="GitHub Streak" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=AbdullahRFA&show_icons=true&count_private=true" alt="GitHub Stats" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahRFA&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> 
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahRFA&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> 
 </div>
 <hr/>
 <div style="display: flex; justify-content: center; align-items: center; gap:14px">  
-   <img width="400" src="https://leetcard.jacoblin.cool/Abdullah_RFA?theme=dark" style="margin-right: 10px;" />  
+   <img width="420" src="https://leetcard.jacoblin.cool/Abdullah_RFA?theme=dark" style="margin-right: 10px;" />  
    <img width="400" src="https://github-readme-stats.vercel.app/api?username=AbdullahRFA&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />  
 </div>
 
