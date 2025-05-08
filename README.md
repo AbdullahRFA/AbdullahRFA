@@ -74,7 +74,7 @@ Innovative **Third-Year Computer Science Student at Jahangirnagar University** |
     <img src="https://img.shields.io/badge/AtCoder-blue?style=for-the-badge" alt="AtCoder Profile" height="40">
   </a>
   
-  <a href="https://www.hackerrank.com/a_n_s_rfa" target="_blank">
+  <a href="https://www.hackerrank.com/Abdullah_30_383" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-32CD32?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" height="40">
   </a>
   
