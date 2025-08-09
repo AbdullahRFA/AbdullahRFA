@@ -7,7 +7,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=Assalamu+Alikum!+I'm+Abdullah+Nazmus-Sakib;Programmer+%7C+Web+Developer;IoT+Enthusiast+%7C+Tech+Explorer;Building+Solutions+with+Purpose)](https://git.io/typing-svg)
 
-4th-year CSE student at **Jahangirnagar University** | Passionate about **AI, IoT & Software Engineering** | **Problem Solver** | **Skilled in Python, Django, Flask, JS, Java, C/C++, HTML, CSS, DB** | Actively Seeking internships
+
+Full-Stack Developer (Python, Django, React) | Android Developer(Flutter) | AI & IoT Enthusiast | 4th-Year CSE Student(JU) | Problem Solver | Open to Software Engineering Internships
 
 ---
 ### 🔥 About Me
