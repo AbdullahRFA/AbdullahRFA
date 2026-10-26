@@ -158,15 +158,32 @@
 
 ### 🚀 Featured Projects
 
-- 🌐 **Serverless Full-Stack CMS & Engineering Portfolio** — *Next.js 16, React, TypeScript, Tailwind CSS, Supabase/PostgreSQL, Resend*
-- 🌾 **Rice Supply Chain Management System (RSCMS)** — *Python, Django, Django REST Framework, SQLite*
-- 🛒 **Vision Mart Inventory & POS Management System** — *Flutter, Dart, Firebase Auth, Cloud Firestore, Riverpod, PDF/Thermal Printing*
-- 💰 **FinTask Wealth & Productivity Manager** — *Flutter, Dart, Riverpod, Firebase, FL Chart, Offline-First*
-- 🎓 **Campus Guardian (University Community App)** — *Flutter, Dart, Firebase, Google Gemini AI, go_router*
-- 🤝 **Stake Grow (Community Donation & Investment Platform)** — *Flutter, Dart, Riverpod, Firebase, MVCR Architecture*
-- 🥭 **AmmChini AI (Bangladeshi Mango Variety Classification)** — *Python, TensorFlow/Keras, MobileNet, Flutter*
-- 🧠 **AI/ML & LLM Engineering Portfolio** — *YOLO Object Tracking & Heatmap, FastAPI + Docker + MLflow Pipeline, Hugging Face Sentiment Analysis, LangChain Document QA, CrewAI/AutoGen Career Mate Multi-Agent, FAISS/Chroma RAG Knowledge Base Chatbot*
-- 🧪 **OrangeHRM & Sauce Demo E2E Automation** — *Playwright, TypeScript, Selenium WebDriver, JavaScript, POM, Postman, Newman*
+- 🌐 **Serverless Full-Stack CMS & Engineering Portfolio** — *Next.js 16, React, TypeScript, Tailwind CSS, Supabase/PostgreSQL, Resend*  
+  [[GitHub Repo]](https://github.com/AbdullahRFA/portfolio_web_site) | [[Live Demo]](https://portfolio-web-site-tau-three.vercel.app/)
+
+- 🌾 **Rice Supply Chain Management System (RSCMS)** — *Python, Django, Django REST Framework, SQLite*  
+  [[GitHub Repo]](https://github.com/AbdullahRFA/Rice_Supply_Chain_Management_System)
+
+- 🛒 **Vision Mart Inventory & POS Management System** — *Flutter, Dart, Firebase Auth, Cloud Firestore, Riverpod, PDF/Thermal Printing*  
+  [[GitHub Repo]](https://github.com/AbdullahRFA/vision_mart_app)
+
+- 💰 **FinTask Wealth & Productivity Manager** — *Flutter, Dart, Riverpod, Firebase, FL Chart, Offline-First*  
+  [[GitHub Repo]](https://github.com/AbdullahRFA/FinTask_flutter)
+
+- 🎓 **Campus Guardian (University Community App)** — *Flutter, Dart, Firebase, Google Gemini AI, go_router*  
+  [[GitHub Repo]](https://github.com/AbdullahRFA/campus_guardian)
+
+- 🤝 **Stake Grow (Community Donation & Investment Platform)** — *Flutter, Dart, Riverpod, Firebase, MVCR Architecture*  
+  [[GitHub Repo]](https://github.com/AbdullahRFA/stake_grow)
+
+- 🥭 **AmmChini AI (Bangladeshi Mango Variety Classification)** — *Python, TensorFlow/Keras, MobileNet, Flutter*  
+  [[GitHub Repo]](https://github.com/AbdullahRFA/aam_chini)
+
+- 🧠 **AI/ML & Health Intelligence Portfolio (NephroGuard & IoT)** — *Python, Scikit-learn, SHAP, Streamlit, Google Gemini 1.5 Flash OCR, ESP32, C++, Blynk IoT*  
+  [[NephroGuard Repo]](https://github.com/AbdullahRFA/Predictive-Modeling-of-Early-Stage-Chronic-Kidney-Disease-Using-Explainable-AI) | [[Live App]](https://early-stage-chronic-kidney-disease-using-explainable-ai.streamlit.app/) | [[IoT System Repo]](https://github.com/AbdullahRFA/IoT-Based-Smart-Patient-Turning-and-Bed-Monitoring-System-for-Bedridden-Patients)
+
+- 🧪 **OrangeHRM & Sauce Demo E2E Automation** — *Playwright, TypeScript, Selenium WebDriver, JavaScript, POM, Postman, Newman*  
+  [OrangeHRM](https://github.com/AbdullahRFA/orangehrm-playwright-project) | [Sauce Demo](https://github.com/AbdullahRFA/saucedemo-js-selenium-pom)
 
 ---
 
