@@ -187,9 +187,9 @@
 ### 📈 Contribution Graph
 
 <!-- Alternative Contribution Calendar (Always works even if Vercel is down) -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://ghchart.rshah.org/0078D7/AbdullahRFA" alt="AbdullahRFA's Github Chart" width="100%" />
-</p>
+</p> -->
 
 <!-- RGB Divider Line (Hosted on GitHub CDN so it never gets blocked like Imgur) -->
 <p align="center">
